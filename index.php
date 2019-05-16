@@ -1,4 +1,4 @@
-<?php
+<?php rgbrt
 	$firstnamelastname = "Lisalina Malmgren";
 	$uname = "dbtrain_1036";
 	$pass = "xotlno";
